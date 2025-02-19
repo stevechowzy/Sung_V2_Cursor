@@ -1,0 +1,15 @@
+# 排除生成文件
+worldview/
+*.png
+*.html
+*.pdf
+
+# 忽略环境文件
+venv/
+.env
+__pycache__/
+*.py[cod]
+
+# 排除IDE文件
+.vscode/
+.idea/ 

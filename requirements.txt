@@ -1,0 +1,5 @@
+fuzzywuzzy==0.18.0
+jieba==0.42.1
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+termcolor==2.5.0
